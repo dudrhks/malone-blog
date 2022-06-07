@@ -13,7 +13,7 @@
 const config = {
   title: "Malone's DevBlog",
   tagline: 'The tagline of my site',
-  url: 'malone-blog-5ms15h40x-malone-dev.vercel.app',
+  url: 'https://malone-dev.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -32,7 +32,7 @@ const config = {
         blog: {
           routeBasePath: '/',
           showReadingTime: true,
-          // editUrl: 'https://github.com/dudrhks/malone-blog/edit/main',
+          editUrl: 'https://github.com/dudrhks/malone-blog/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,7 +58,7 @@ const config = {
           {to: 'about', label: 'About', position: 'left'},
           {to: 'tags', label: 'Tags', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/dudrhks',
             label: 'GitHub',
             position: 'right',
           },
@@ -72,12 +72,16 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: 'blog',
+                to: '/',
+              },
+              {
+                label: 'About',
+                to: '/about',
               },
 
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/dudrhks',
               },
             ],
           },
