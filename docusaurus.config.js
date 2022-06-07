@@ -32,7 +32,7 @@ const config = {
         blog: {
           routeBasePath: '/',
           showReadingTime: true,
-          editUrl: 'https://github.com/dudrhks/malone-blog/edit/main',
+          // editUrl: 'https://github.com/dudrhks/malone-blog/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
