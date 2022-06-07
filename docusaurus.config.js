@@ -13,7 +13,7 @@
 const config = {
   title: "Malone's DevBlog",
   tagline: 'The tagline of my site',
-  url: 'malone-dev.vercel.app',
+  url: 'malone-blog-5ms15h40x-malone-dev.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
