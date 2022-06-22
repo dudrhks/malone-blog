@@ -1,5 +1,5 @@
 ---
-slug: React에서 왜 key를 index로 사용하면 안되는가?
+slug:  react 01
 title: React에서 왜 key를 index로 사용하면 안되는가?
 authors: malone
 tags: [React]
