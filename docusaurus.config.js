@@ -70,19 +70,18 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/',
-              },
-              {
-                label: 'About',
-                to: '/about',
-              },
-
-              {
-                label: 'GitHub',
-                href: 'https://github.com/dudrhks',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/',
+              // },
+              // {
+              //   label: 'About',
+              //   to: '/about',
+              // },
+              // {
+              //   label: 'GitHub',
+              //   href: 'https://github.com/dudrhks',
+              // },
             ],
           },
         ],
