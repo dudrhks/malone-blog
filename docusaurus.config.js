@@ -15,6 +15,7 @@ const config = {
   tagline: 'The tagline of my site',
   url: 'https://malone-dev.vercel.app',
   baseUrl: '/',
+  favicon: '/img/favicon-32x32.png',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'dudrhks', // Usually your GitHub org/user name.
@@ -70,18 +71,18 @@ const config = {
           {
             title: 'More',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/',
-              // },
-              // {
-              //   label: 'About',
-              //   to: '/about',
-              // },
-              // {
-              //   label: 'GitHub',
-              //   href: 'https://github.com/dudrhks',
-              // },
+              {
+                label: 'Blog',
+                to: '/',
+              },
+              {
+                label: 'About',
+                to: '/about',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/dudrhks',
+              },
             ],
           },
         ],
