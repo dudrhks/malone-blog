@@ -4,6 +4,7 @@ title: React에서 왜 key를 index로 사용하면 안되는가?
 authors: malone
 tags: [React]
 ---
+<br/>
 
 map 함수를 사용하여 DOM Elements들을 만들 경우 key값이 없으면 오류가 발생하게 된다.
 
