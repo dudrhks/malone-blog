@@ -1,6 +1,6 @@
 ---
 slug:  modern-javacript-2-3
-title: [모던 자바스크립트] 2-3 strict mode
+title: (모던 자바스크립트) 2-3 strict mode
 authors: malone
 tags: [Javacript, Moden Javacript]
 ---
