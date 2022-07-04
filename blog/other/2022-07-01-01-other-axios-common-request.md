@@ -79,7 +79,7 @@ interface Request extends AxiosRequestConfig {
 }
 
 // 제네릭 타입 설정
-export async function request<R>{ method = 'GET', url, params }: Request) {
+export async function request<R>({ method = 'GET', url, params }: Request) {
 	let data; 
 	if(params && method !== "GET") data = params;
   const { data:result } = await api.request<R>({ method: method || 'GET', url, ...(data ? { data } : { params }) });
