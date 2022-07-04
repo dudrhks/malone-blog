@@ -82,8 +82,8 @@ interface Request extends AxiosRequestConfig {
 export async function request<R>{ method = 'GET', url, params }: Request) {
 	let data; 
 	if(params && method !== "GET") data = params;
-  const { data } = await api.request<R>({ method: method || 'GET', url, ...(data ? { data } : { params }) });
-  return data;
+  const { data:result } = await api.request<R>({ method: method || 'GET', url, ...(data ? { data } : { params }) });
+  return result;
 }
 ```
 
