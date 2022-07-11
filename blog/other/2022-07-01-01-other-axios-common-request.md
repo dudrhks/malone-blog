@@ -3,6 +3,7 @@ slug:  axios-common-request
 title: React 프로젝트 에서 Axios request 공통 로직 작성해보기(feat:typescript)
 authors: malone
 tags: [Axios, Javascript, Typescript, React]
+keywords: [axios, typesciprt, javsciprt, react, axios request, axios 반복요청]
 ---
 <br/>
 > react 프로젝트에서 반복되는 axios request 요청을 할 때 반복되는 코드를 줄일 수 없을까를 고민해 보았다
