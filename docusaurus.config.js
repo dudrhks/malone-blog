@@ -34,6 +34,7 @@ const config = {
           routeBasePath: '/',
           showReadingTime: true,
           editUrl: 'https://github.com/dudrhks/malone-blog/edit/main',
+          // blogSidebarCount: 100,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

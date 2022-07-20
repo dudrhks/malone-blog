@@ -1,13 +1,11 @@
 ---
-slug:  modern-javacript-2-5
-title: (모던 자바스크립트) 2-5 alert, prompt, confirm을 이용한 상호작용
+slug:  modern-javascript-2-6
+title: (모던 자바스크립트) 2-6 alert, prompt, confirm을 이용한 상호작용
 authors: malone
-tags: [Javacript, Moden Javacript]
+tags: [Javascript, Modern Javascript]
 keywords: [javascript, prompt, confirm, alert, 상호작용, 모던 자바스크립트]
 ---
 <br/>
-
-# [모던자바스크립트]2-6 ****alert, prompt, confirm을 이용한 상호작용****
 
 > 브라운저 환경에서 사용되는 최소한의 사용자 인터페이스 기능을 알아본다
 > 
