@@ -13,7 +13,7 @@
 const config = {
   title: "Malone's DevBlog",
   tagline: 'The tagline of my site',
-  url: 'https://malone-blog.vercel.app/',
+  url: 'https://malone.im/',
   baseUrl: '/',
   favicon: '/img/favicon-32x32.png',
   onBrokenLinks: 'throw',
