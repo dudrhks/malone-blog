@@ -1,6 +1,6 @@
 ---
-slug:  modern-javascript-4-4
-title: (모던 자바스크립트) 4-4 메서드와 this
+slug:  modern-javascript-4-5
+title: (모던 자바스크립트) 4-5 메서드와 this
 authors: malone
 tags: [Javascript, Modern Javascript]
 keywords: [javascript, method, this, 메서드, 모던 자바스크립트]
