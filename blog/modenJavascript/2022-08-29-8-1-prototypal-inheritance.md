@@ -1,12 +1,11 @@
 ---
-slug:  modern-javascript-7-2
-title: (모던 자바스크립트) 7-2 프로퍼티 getter와 setter
+slug:  modern-javascript-8-1
+title: ((모던 자바스크립트) 8-1 프로토타입 상속
 authors: malone
 tags: [Javascript, Modern Javascript]
-keywords: [javascript, getter, setter, 자바스크립트]
+keywords: [javascript, prototype, 자바스크립트]
 ---
 <br/>
-# (모던 자바스크립트) 8-1 프로토타입 상속
 
 ## [[Protype]]
 
